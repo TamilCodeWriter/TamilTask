@@ -1,0 +1,17 @@
+C:\Users\Tamil\Documents\GitHub\TamilTask\TaskManagementSystem\Backend\TaskManagement.Persistence\bin\Debug\net10.0\TaskManagement.Persistence.deps.json
+C:\Users\Tamil\Documents\GitHub\TamilTask\TaskManagementSystem\Backend\TaskManagement.Persistence\bin\Debug\net10.0\TaskManagement.Persistence.runtimeconfig.json
+C:\Users\Tamil\Documents\GitHub\TamilTask\TaskManagementSystem\Backend\TaskManagement.Persistence\bin\Debug\net10.0\TaskManagement.Persistence.dll
+C:\Users\Tamil\Documents\GitHub\TamilTask\TaskManagementSystem\Backend\TaskManagement.Persistence\bin\Debug\net10.0\TaskManagement.Persistence.pdb
+C:\Users\Tamil\Documents\GitHub\TamilTask\TaskManagementSystem\Backend\TaskManagement.Persistence\bin\Debug\net10.0\TaskManagement.Domain.dll
+C:\Users\Tamil\Documents\GitHub\TamilTask\TaskManagementSystem\Backend\TaskManagement.Persistence\bin\Debug\net10.0\TaskManagement.Domain.pdb
+C:\Users\Tamil\Documents\GitHub\TamilTask\TaskManagementSystem\Backend\TaskManagement.Persistence\obj\Debug\net10.0\TaskManagement.Persistence.csproj.AssemblyReference.cache
+C:\Users\Tamil\Documents\GitHub\TamilTask\TaskManagementSystem\Backend\TaskManagement.Persistence\obj\Debug\net10.0\TaskManagement.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tamil\Documents\GitHub\TamilTask\TaskManagementSystem\Backend\TaskManagement.Persistence\obj\Debug\net10.0\TaskManagement.Persistence.AssemblyInfoInputs.cache
+C:\Users\Tamil\Documents\GitHub\TamilTask\TaskManagementSystem\Backend\TaskManagement.Persistence\obj\Debug\net10.0\TaskManagement.Persistence.AssemblyInfo.cs
+C:\Users\Tamil\Documents\GitHub\TamilTask\TaskManagementSystem\Backend\TaskManagement.Persistence\obj\Debug\net10.0\TaskManagement.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\Tamil\Documents\GitHub\TamilTask\TaskManagementSystem\Backend\TaskManagement.Persistence\obj\Debug\net10.0\TaskMana.10D3BAAD.Up2Date
+C:\Users\Tamil\Documents\GitHub\TamilTask\TaskManagementSystem\Backend\TaskManagement.Persistence\obj\Debug\net10.0\TaskManagement.Persistence.dll
+C:\Users\Tamil\Documents\GitHub\TamilTask\TaskManagementSystem\Backend\TaskManagement.Persistence\obj\Debug\net10.0\refint\TaskManagement.Persistence.dll
+C:\Users\Tamil\Documents\GitHub\TamilTask\TaskManagementSystem\Backend\TaskManagement.Persistence\obj\Debug\net10.0\TaskManagement.Persistence.pdb
+C:\Users\Tamil\Documents\GitHub\TamilTask\TaskManagementSystem\Backend\TaskManagement.Persistence\obj\Debug\net10.0\TaskManagement.Persistence.genruntimeconfig.cache
+C:\Users\Tamil\Documents\GitHub\TamilTask\TaskManagementSystem\Backend\TaskManagement.Persistence\obj\Debug\net10.0\ref\TaskManagement.Persistence.dll
